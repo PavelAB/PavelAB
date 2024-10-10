@@ -1,6 +1,6 @@
 ## 🚲 I’m Pavel
 
-I’m a web developer with a strong passion for creating and building diverse projects. I work on personal applications and am currently seeking a new professional opportunity.
+I’m a web developer with a strong passion for creating and building diverse projects. I work on personal application and am currently seeking a new professional opportunity.
 
 I enjoy working with React and Node.js on my projects, and I am also learning C# as I aim to take on a new challenge by rewriting my backend in a cleaner, more structured language.
 
