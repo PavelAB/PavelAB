@@ -1,8 +1,15 @@
-## Hi there 👋
+## 🚲 I’m Pavel
+
+I’m a web developer passionate about development. I work on personal projects and am currently seeking a new professional opportunity.
+
+I enjoy working with React and Node.js on my projects, and I am also learning C# as I aim to take on a new challenge by rewriting my backend in a cleaner, more structured language.
+
+I appreciate the opportunity to work on both backend and frontend tasks. I find it fascinating to create a project from scratch: conducting analysis, defining goals, and bringing it to life. But I’d never say no to a bit of help from a designer! 😉
+
+
+
 
 <!--
-**PavelAB/PavelAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
