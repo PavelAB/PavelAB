@@ -6,7 +6,9 @@ I enjoy working with React and Node.js on my projects, and I am also learning C#
 
 I appreciate the opportunity to work on both backend and frontend tasks. I find it fascinating to create a project from scratch: conducting analysis, defining goals, and bringing it to life. But I’d never say no to a bit of help from a designer! 😉
 
-
+### 🛠 Languages and Tools
+<img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
 
 
 <!--
