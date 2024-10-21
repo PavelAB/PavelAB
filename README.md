@@ -24,7 +24,6 @@ I appreciate the opportunity to work on both backend and frontend tasks. I find 
 
 <br>
 <br>
-<br>
 
           
 
