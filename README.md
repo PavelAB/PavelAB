@@ -21,10 +21,46 @@ I appreciate the opportunity to work on both backend and frontend tasks. I find 
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
+
+<br>
+<br>
 <br>
 
           
 
+### 🔬 My Projects
+
+<details>
+  <summary><strong>Movie Project</strong></summary>
+  <br>
+  I started this project in May 2023 and resumed development in September 2024.
+    
+  - **Why this theme?**
+        
+    I chose the movie theme because it's a field that interests me. My goal is to create an application where users can interact with movies, access information such as actors, awards, and also rate the movie or add comments, similar to IMDB. Additionally, it's an open-ended project, allowing for continuous expansion by adding an unlimited number of tables and relationships in the database. This creates endless possibilities for both the frontend and backend. The project enables me to work across the full development cycle: database, backend, and frontend.
+        
+  - **Technologies used**:
+    - Frontend: React (JavaScript)
+    - Backend: NodeJs
+  - **Progress**:
+    - **First version** (May - June 2023): Frontend in React (JavaScript), basic backend.
+      - Frontend: [MovieFront]([https://github.com/PavelAB/MovieFront])
+      - Backend: [MovieBack]([https://github.com/PavelAB/MovieBack])
+    - **Current version** (September 2024 - present): Rewriting the frontend in TypeScript, continuously improving the backend, and adding documentation.
+      - Frontend: [MovieTS]([https://github.com/PavelAB/MovieTS])
+      - Backend: [MovieBack]([https://github.com/PavelAB/MovieBack]) 
+  - **Future plans**:
+    - Adding new features and pages to the frontend.
+    - Creating a more refined design.
+    - Rewriting the backend in C# (a mid-term project).
+    - Continuous improvements with new relationships and tables in the database.
+</details>
+
+<details>
+  <summary><strong>Time Management Project</strong></summary>
+  <br>
+  A project in its early stages, where I'm currently working on the UML schema. The idea is to create a custom dashboard to efficiently manage my time and track my progress.
+</details>
 
           
           
