@@ -24,27 +24,7 @@ I appreciate the opportunity to work on both backend and frontend tasks. I find 
 <br>
 
           
-### 🔬 My Projects
 
-<details>
-          <summary>
-                 Movie Project                       
-          </summary>
-
-          I started this project in May 2023 and resumed development in September 2024.
-                    
-          - **Why this theme?**: I chose the movie theme because it's a field that interests me. My goal is to create an application where users can interact with movies, view information such as actors, awards, ratings, and comments (similar to IMDB). Another reason is that it's an open-ended project; I can continuously expand it by adding an unlimited number of tables and relationships in the database, which allows for endless possibilities in both the frontend and backend, enabling me to retrieve and organize data in the most optimal way. This project allows me to work on the full development cycle: database, backend, and frontend.                     
-                    
-          
-</details>
-
-
-<details>
-          <summary>
-                 Time Management Project                       
-          </summary>
-          A project in its early stages, where I'm currently working on the UML schema. The idea is to create a custom dashboard to efficiently manage my time and track my progress.
-</details>
 
           
           
