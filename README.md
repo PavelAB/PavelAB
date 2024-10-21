@@ -44,9 +44,11 @@ I appreciate the opportunity to work on both backend and frontend tasks. I find 
     - Backend: NodeJs
   - **Progress**:
     - **First version** (May - June 2023): Frontend in React (JavaScript), basic backend.
+      
       - Frontend: https://github.com/PavelAB/MovieFront
       - Backend: https://github.com/PavelAB/MovieBack
     - **Current version** (September 2024 - present): Rewriting the frontend in TypeScript, continuously improving the backend, and adding documentation.
+      
       - Frontend: https://github.com/PavelAB/MovieTS
       - Backend: https://github.com/PavelAB/MovieBack
   - **Future plans**:
