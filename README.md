@@ -41,6 +41,8 @@ I appreciate the opportunity to work on both backend and frontend tasks. I find 
   - **Technologies used**:
     - Frontend: React (JavaScript)
     - Backend: NodeJs
+    - Database: SQL Server
+    - ERD Schema: https://github.com/PavelAB/MovieBack/blob/main/ERD_diagram/Movie_Project_v0.2.png
   - **Progress**:
     - **First version** (May - June 2023): Frontend in React (JavaScript), basic backend.
       
