@@ -62,7 +62,7 @@ I appreciate the opportunity to work on both backend and frontend tasks. I find 
 <details>
   <summary><strong>Time Management Project</strong></summary>
   <br>
-  A project in its early stages, where I'm currently working on the UML schema. The idea is to create a custom dashboard to efficiently manage my time and track my progress.
+  A project in its early stages, where I'm currently working on the ERD schema. The idea is to create a custom dashboard to efficiently manage my time and track my progress.
 </details>
 
           
